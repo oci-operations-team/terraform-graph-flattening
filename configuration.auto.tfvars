@@ -57,7 +57,7 @@ configuration = {
         CATEGORY-3-KEY = {
             category_name = "category_3"
             vcns = {
-                CATEGORY-2-VCN-1-KEY = {
+                CATEGORY-3-VCN-1-KEY = {
                     vcn_name = "category-3-vcn-1"
                 }
             }
